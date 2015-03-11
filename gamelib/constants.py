@@ -1,0 +1,3 @@
+
+S_WIDTH = 480
+S_HEIGHT = 640
